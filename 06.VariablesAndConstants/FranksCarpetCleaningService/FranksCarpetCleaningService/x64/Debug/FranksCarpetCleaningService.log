@@ -1,4 +1,2 @@
 ﻿  FranksCarpetCleaningService.cpp
-C:\Users\RoslavaAngelova\Documents\training\C-\06.VariablesAndConstants\FranksCarpetCleaningService\FranksCarpetCleaningService\FranksCarpetCleaningService.cpp(16,18): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\RoslavaAngelova\Documents\training\C-\06.VariablesAndConstants\FranksCarpetCleaningService\FranksCarpetCleaningService\FranksCarpetCleaningService.cpp(23,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   FranksCarpetCleaningService.vcxproj -> C:\Users\RoslavaAngelova\Documents\training\C-\06.VariablesAndConstants\FranksCarpetCleaningService\x64\Debug\FranksCarpetCleaningService.exe
